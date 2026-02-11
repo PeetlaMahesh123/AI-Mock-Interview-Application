@@ -1,0 +1,8 @@
+{
+  "name": "AceIt - AI Mock Interview Prep",
+  "description": "A high-performance mock interview simulator with real-time video recording, speech-to-text, and AI-powered performance feedback using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
