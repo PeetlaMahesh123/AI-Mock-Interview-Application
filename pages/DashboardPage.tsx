@@ -1,5 +1,5 @@
 
-React from 'react';
+import React from 'react';
 import { InterviewSession } from '../types';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
