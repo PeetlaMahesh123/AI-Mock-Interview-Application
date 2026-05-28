@@ -1,5 +1,7 @@
 
 # AceIt - AI Mock Interview Preparator 🚀
+AceIt is a high-performance mock interview simulator designed to help candidates master their interview skills using Google's Gemini AI.
+
 
 
 ## 🔗 Repository Information
