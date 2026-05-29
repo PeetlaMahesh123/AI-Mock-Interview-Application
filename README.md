@@ -8,7 +8,7 @@ AceIt is a high-performance mock interview simulator designed to help candidates
 - **URL**: [https://github.com/PeetlaMahesh123/AI-Mock-Interview-Application](https://github.com/PeetlaMahesh123/AI-Mock-Interview-Application)
 
 ## 🚀 Deployment to GitHub Pages
-
+To host this app on GitHub, follow these exact steps:
 
 ### 1. Initialize and Push to GitHub
 If you haven't pushed your code yet:
