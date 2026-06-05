@@ -3,9 +3,6 @@
 
 AceIt is a high-performance mock interview simulator designed to help candidates master their interview skills using Google's Gemini AI.
 
-
-
-
 ## 🔗 Repository Information
 - **URL**: [https://github.com/PeetlaMahesh123/AI-Mock-Interview-Application](https://github.com/PeetlaMahesh123/AI-Mock-Interview-Application)
 
