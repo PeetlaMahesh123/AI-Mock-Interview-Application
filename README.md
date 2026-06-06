@@ -20,7 +20,11 @@ git push -u origin main
 ```
 
 ### 2. Configure the Gemini API Key
-
+- Navigate to your GitHub Repository **Settings**.
+- Go to **Secrets and variables** > **Actions**.
+- Click **New repository secret**.
+- **Name**: `GEMINI_API_KEY`
+- **Value**: *Paste your Google Gemini API Key here*
 
 ### 3. Verify GitHub Actions
 - Go to the **Actions** tab in your repository.
