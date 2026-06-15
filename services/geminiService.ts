@@ -5,6 +5,7 @@ import { FeedbackData } from "../types";
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 // Using gemini-3-flash-preview to stay within higher rate limits and provide faster feedback
+const PRIMARY_MODEL = 'gemini-3-flash-preview';
 
 export const analyzeAnswer = async (
   question: string,
