@@ -7,7 +7,11 @@ const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 // Using gemini-3-flash-preview to stay within higher rate limits and provide faster feedback
 const PRIMARY_MODEL = 'gemini-3-flash-preview';
 
- Promise<FeedbackData> => {
+export const analyzeAnswer = async (
+  question: string,
+  transcript: string,
+  role: string
+): Promise<FeedbackData> => {
   try {
     const response = await ai.models.generateContent({
       model: PRIMARY_MODEL,
