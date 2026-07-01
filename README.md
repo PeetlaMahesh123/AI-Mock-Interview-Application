@@ -32,7 +32,9 @@ git push -u origin main
 - Once it finishes successfully, it will create/update a `gh-pages` branch.
 
 ### 4. Set the Pages Source
-
+- Go to **Settings** > **Pages**.
+- Under **Build and deployment** > **Branch**, select `gh-pages` and `/ (root)`.
+- Click **Save**. Your site will be live at the URL above within minutes.
 
 ## 🛠️ Local Development
 
