@@ -27,6 +27,9 @@ git push -u origin main
 - **Value**: *Paste your Google Gemini API Key here*
 
 ### 3. Verify GitHub Actions
+- Go to the **Actions** tab in your repository.
+- You will see a workflow named "Deploy to GitHub Pages" running.
+- Once it finishes successfully, it will create/update a `gh-pages` branch.
 
 ### 4. Set the Pages Source
 - Go to **Settings** > **Pages**.
